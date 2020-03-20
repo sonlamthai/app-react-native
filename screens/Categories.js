@@ -6,13 +6,13 @@ export default function Categories({ navigation }) {
 
   const [state, setState] = useState({
     categories: [
-      {id: 1, name: 'Đi làm'},
-      {id: 2, name: 'Đi chơi'},
-      {id: 3, name: 'Đi học'},
-      {id: 4, name: 'Đi ngủ'},
-      {id: 5, name: 'Đi đái'},
-      {id: 6, name: 'Đi ăn'},
-    ]
+      {id: 1, name: "Đi làm"},
+      {id: 2, name: "Đi chơi"},
+      {id: 3, name: "Đi học"},
+      {id: 4, name: "Đi ngủ"},
+      {id: 5, name: "Đi nấu cơm"},
+      {id: 6, name: "Đi ăn"}
+    ],
   })
 
   const { categories } = state

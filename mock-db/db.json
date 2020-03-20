@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {"id": 1, "name": "Đi làm"},
+        {"id": 2, "name": "Đi chơi"},
+        {"id": 3, "name": "Đi học"},
+        {"id": 4, "name": "Đi ngủ"},
+        {"id": 5, "name": "Đi đái"},
+        {"id": 6, "name": "Đi ăn"}
+      ],
+
+      "products": [
+        {
+            "id": 1,
+            "images": [
+                {
+                    "url": "jar"
+                }
+            ],
+            "name": "Cho dep",
+            "price": "10000000"
+        },
+        {
+            "id": 2,
+            "images": [
+                {
+                    "url": "jar"
+                }
+            ],
+            "name": "Cun de thuong",
+            "price": "50000000"
+        }
+    ]
+}
